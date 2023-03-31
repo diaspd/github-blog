@@ -21,7 +21,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/diaspd/
+$ git clone https://github.com/diaspd/github-blog.git
 $ cd 
 ```
 
@@ -54,7 +54,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 .
+💰 A blog using git hub api.
 
 <br></br>
 
