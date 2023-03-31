@@ -59,7 +59,7 @@ This project was developed with the following technologies:
 <br></br>
 
 ## 🔖 Layout
-- [Github Blog - Figma]()
+- [Github Blog - Figma](https://www.figma.com/community/file/1138814951106121051)
 
 <br></br>
 
