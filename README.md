@@ -55,7 +55,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 A blog using git hub api and performance concepts as memo, useCallback and more.
+💰 A blog using git hub api and performance concepts like memo, useCallback and more.
 
 <br></br>
 
