@@ -8,7 +8,11 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </div>
 
-<br></br>
+---
+
+<div align="center">
+  <img alt="project img" title="image" src="./src/assets/template.svg" width="100%"/>
+</div> 
 
 <div align="center">
   <img alt="project gif" title="gif" src="./src/assets/template.gif" width="100%"/>
