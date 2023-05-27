@@ -53,7 +53,7 @@ This project was developed with the following technologies:
 - Type Script
 - Java Script
 - Vitejs
-- API concepts
+- API requests
 </b>
 
 </br>
