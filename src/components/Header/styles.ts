@@ -1,11 +1,13 @@
 import styled from 'styled-components'
 
+import BackgroundImg from '../../assets/bg.svg'
+
 export const HeaderContainer = styled.header`
   display: flex;
   align-items: center;
   justify-content: center;
 
-  background-image: url('./src/assets/bg.svg');
+  background-image: url(${BackgroundImg});
   padding-bottom: 10rem;
   background-repeat: no-repeat;
   background-size: cover;
