@@ -3,7 +3,7 @@
 </div> 
 
 <h2 align="center">
-  Link to project: <a href="github-blog-diaspd.vercel.app" target="_blank">Github Blog</a>
+  Link to project: <a href="https://github-blog-diaspd.vercel.app" target="_blank">Github Blog</a>
 </h2>
 
 <div align="center">
