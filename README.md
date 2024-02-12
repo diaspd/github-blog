@@ -6,7 +6,6 @@
   Link to project: <a href="github-blog-diaspd.vercel.app" target="_blank">Github Blog</a>
 </h2>
 
-
 <div align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
