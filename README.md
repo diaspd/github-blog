@@ -2,6 +2,10 @@
   <h1> <img alt="logo image" title="image" src="./src/assets/logo-readme.svg" width="20%" /> </h1>
 </div> 
 
+<h2 align="center">
+  Link to project: <a href="github-blog-diaspd.vercel.app" target="_blank">Github Blog</a>
+</h2>
+
 <div align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,7 +15,7 @@
 ---
 
 <div align="center">
-  <img alt="project img" title="image" src="./public/template.svg" width="100%"/>
+  <img alt="project img" title="image" src="./src/assets/template.svg" width="100%"/>
 </div> 
 
 <div align="center">
